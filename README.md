@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#My name is Tinyiko Ndlovu
+# My name is Tinyiko Ndlovu
 
 <!--
 **TinyikoNdlovu/TinyikoNdlovu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
